@@ -1,3 +1,11 @@
+haskell-download-curl (0.1.4-7) unstable; urgency=medium
+
+  * Change maintainer
+  * Change VCS fields
+  * Update standards version
+
+ -- Neil Mayhew <neil_mayhew@users.sourceforge.net>  Wed, 30 Mar 2016 11:32:37 -0600
+
 haskell-download-curl (0.1.4-6) unstable; urgency=medium
 
   * Rebuild due to haskell-devscripts bug affecting the previous
