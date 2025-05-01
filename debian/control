@@ -8,8 +8,9 @@ Build-Depends: debhelper (>= 9)
   , haskell-devscripts (>= 0.8)
   , ghc
   , ghc-prof
+  , cabal-install
   , libghc-tagsoup-dev (>= 0.8)
-  , libghc-tagsoup-dev (<< 0.14)
+  , libghc-tagsoup-dev (<< 0.15)
   , libghc-tagsoup-prof
   , libghc-curl-dev
   , libghc-curl-prof
