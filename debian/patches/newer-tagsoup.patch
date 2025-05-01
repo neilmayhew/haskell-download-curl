@@ -1,7 +1,7 @@
-Description: Allow tagsoup 0.13
+Description: Allow tagsoup 0.14
 Author: Colin Watson <cjwatson@debian.org>
 Forwarded: https://lists.debian.org/debian-haskell/2014/01/msg00002.html
-Last-Update: 2014-01-01
+Last-Update: 2025-04-30
 
 Index: b/download-curl.cabal
 ===================================================================
@@ -12,4 +12,4 @@ Index: b/download-curl.cabal
      else
          build-depends:   base > 3 && < 4
 -    build-depends: curl, tagsoup >= 0.8 && < 0.13, feed, xml
-+    build-depends: curl, tagsoup >= 0.8 && < 0.14, feed, xml
++    build-depends: curl, tagsoup >= 0.8 && < 0.15, feed, xml
